@@ -1,1 +1,22 @@
-<svg height="32" viewBox="0 0 32 32" width="32" xmlns="http://www.w3.org/2000/svg"><g fill="none" fill-rule="evenodd"><circle cx="16" cy="16" fill="#242424" r="16"/><path d="M13.06 23.874l2.683-2.697 2.694 2.697-1.719 1.722a1.377 1.377 0 01-1.95 0zm6.95-9.242l-2.692-2.697 2.693-2.697 2.692 2.697zm-.669 8.363l-2.693-2.697 7.23-7.242 1.718 1.721c.539.54.539 1.413 0 1.953zm-7.403-.278L9.246 20.02l7.218-7.23 2.692 2.697zm-3.822-3.8l-1.719-1.722a1.382 1.382 0 01.013-1.952l1.718-1.722 2.693 2.698zM18.883 8.129l-7.23 7.238L8.96 12.67l6.255-6.266a1.377 1.377 0 011.95 0z" fill="#fff" fill-rule="nonzero"/></g></svg>
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="108px" height="108px" viewBox="0 0 108 108" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <!-- Generator: Sketch 62 (91390) - https://sketch.com -->
+    <title>edo</title>
+    <desc>Created with Sketch.</desc>
+    <g id="edo" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+        <g>
+            <circle id="Oval" fill="#FFFFFF" cx="54" cy="54" r="54"></circle>
+            <g transform="translate(4.000000, 4.000000)" fill-rule="nonzero" id="Rectangle">
+                <g transform="translate(50.000000, 50.000000) rotate(-45.000000) translate(-50.000000, -50.000000) translate(15.000000, 15.000000)">
+                    <rect fill="#13495A" x="0" y="0" width="45.2941177" height="20.5882353"></rect>
+                    <rect fill="#13495A" x="24.7058823" y="49.4117648" width="45.2941177" height="20.5882353"></rect>
+                    <rect fill="#00B69E" x="0" y="49.4117648" width="20.5882353" height="20.5882353"></rect>
+                    <rect fill="#13495A" x="0" y="24.7058823" width="20.5882353" height="20.5882353"></rect>
+                    <rect fill="#00B69E" x="24.7058823" y="24.7058823" width="20.5882353" height="20.5882353"></rect>
+                    <rect fill="#13495A" x="49.4117648" y="24.7058823" width="20.5882353" height="20.5882353"></rect>
+                    <rect fill="#00B69E" x="49.4117648" y="0" width="20.5882353" height="20.5882353"></rect>
+                </g>
+            </g>
+        </g>
+    </g>
+</svg>
